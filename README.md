@@ -1,7 +1,10 @@
 # CS.11.02-Lab.2.1
 
-Your task is to implement all of the methods described below in a class called *Main*.
-You should pass all of the tests in the MainTest class (provided).
+Your task is to implement all of the **eight methods** described below in a class called **Main**.
+For each method that you implement, you will **call your method inside the main method** and **store it in an appropriately named variable**. You will then **print out this varible's contents** to the console. 
+You should pass all of the tests in the **MainTest** class (provided).
+
+Note that unlike Lab 1, in Lab 2 you are provided with a class called **MainTest**. This class is not to be edited. That is, you will not write or edit any code inside the MainTest class. You may, however, wish to comment out certain test cases that you are not currently testing.
 
 When we wish to output a value to the console, we use the statement:
 
@@ -11,11 +14,11 @@ System.out.println(insertValueThatYouWishToPrintHere) to print on different line
 In intelliJ, a neat shortcut for the print statement is to type “sout” and press enter.
 In intelliJ, a neat shortcut to create a main method is to type “main” and press enter.	
 
-Ensure that your parameter names are meaningful variable names.
+Ensure that your parameter names are **meaningful variable names**.
 
-Ensure that all the methods that you write in this lab are declared to be static. 
+Ensure that all the methods that you write in this lab are declared to be **static**. 
 
-Ensure that all the methods that you write in this lab contain a return statement. That is, none of the methods that you write in this lab will contain print statements. 
+Ensure that all the methods that you write in this lab contain a **return** statement. That is, **none of the methods that you write in this lab will contain print statements**. 
 
 1. Write a method called <b>add</b> that takes two integers, adds them together, and returns the result. 
 Below is an example of a call to the add method.
