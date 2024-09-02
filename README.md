@@ -1,6 +1,6 @@
 # CS.11.02-Lab.2.1
 
-Your task is to implement all of the methods described below in a class called Main.
+Your task is to implement all of the methods described below in a class called *Main*.
 You should pass all of the tests in the MainTest class (provided).
 
 When we wish to output a value to the console, we use the statement:
